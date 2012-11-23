@@ -1,0 +1,25 @@
+2012-11-14_08:58:46 test write log!
+2012-11-14_08:58:46 test write log!
+2012-11-14_08:58:48 test write log!
+2012-11-14_08:58:48 test write log!
+2012-11-14_08:58:49 test write log!
+2012-11-14_08:58:49 test write log!
+2012-11-14_08:58:49 test write log!
+2012-11-14_08:58:49 test write log!
+2012-11-14_09:04:12=> test write log!
+2012-11-14_09:04:13=> test write log!
+2012-11-14_09:04:13=> test write log!
+2012-11-14_09:04:13=> test write log!
+2012-11-14_09:04:13=> test write log!
+2012-11-14_09:43:13\ttest write log!
+2012-11-14_09:43:14\ttest write log!
+2012-11-14_09:43:15\ttest write log!
+2012-11-14_09:43:16\ttest write log!
+2012-11-14_09:43:18\ttest write log!
+2012-11-14_11:11:05 test write log!
+2012-11-14_11:11:05 test write log!
+2012-11-14_11:11:05 test write log!
+2012-11-14_11:11:05 test write log!
+2012-11-14_11:11:06 test write log!
+2012-11-14_11:11:06 test write log!
+2012-11-15_02:11:44 test write log!
