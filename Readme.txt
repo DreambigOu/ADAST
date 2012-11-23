@@ -1,41 +1,39 @@
 Automatic Disaster Alert System for Tourist (ADAST) Read me
 
-ON CAT Branch
-
 1. Files Structure
 
 ADAST
-	-/bootstrap				# library for UI use
+	-/bootstrap					# library for UI use
 	|
-	-/log					# log files for debug and track
+	-/log						# log files for debug and track
 	|
-	-/phprules/*.php 		# php files for rule engine library
+	-/phprules/*.php 			# php files for rule engine library
 	|
-	-/QueryScript/*.rb		# ruby file for query information from virtual repository
+	-/QueryScript/*.rb			# ruby file for query information from virtual repository
 	|			 |
 	|			 -/QueryResult	# text file of query result
 	|
-	-ADAST.php 				# entry pages of ADAST
+	-ADAST.php 					# entry pages of ADAST
 	|
-	-sub.php 				#
+	-sub.php 					#
 	|
-	-list.php 				#
+	-list.php 					#
 	|
-	-boody.php              # library for print message on the text area in ADAST.php
+	-boody.php              	# library for print message on the text area in ADAST.php
 	|
-	-Rule_Engine.php 		# the entry point of rule engine
+	-Rule_Engine.php 			# the entry point of rule engine
 	|
-	-fact.php 				# the data structure and performed actions of rule engine
+	-fact.php 					# the data structure and performed actions of rule engine
 	|
-	-rule.srl				# rules used in rule engine
+	-rule.srl					# rules used in rule engine
 	|
-	-subscribe.php 			# library for submiting parameter to ADAST
+	-subscribe.php 				# library for submiting parameter to ADAST
 	|
-	-SMS.php 				# library for sendinf SMS message
+	-SMS.php 					# library for sendinf SMS message
 
 
 VR
-	-VR_publisher.php 		# to simulate VR publish data 
+	-VR_publisher.php 			# to simulate VR publish data 
 
 2. Current Publish and Subscribe address
 2.1 Publish (Active Update Data)
